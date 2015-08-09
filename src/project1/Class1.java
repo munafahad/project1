@@ -4,7 +4,8 @@ public class Class1 {
 
 	public static void main(String[] args) {
 		// Test class
-		System.out.print("Hello world!");
+		System.out.print("Hello world! Hello world!");
+		
 	}
 
 }
