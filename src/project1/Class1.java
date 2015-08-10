@@ -6,6 +6,8 @@ public class Class1 {
 		// Test class
 		System.out.print("Hello world! Hello world!");
 		
+		System.out.print("\n Hi");
+		
 	}
 
 }
